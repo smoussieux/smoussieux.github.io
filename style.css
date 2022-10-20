@@ -808,7 +808,7 @@ html {
   height: 100% !important; }
 
 body {
-  background: #F7F6FB !important;
+  background: #fafafa !important;
   -webkit-animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both;
           animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both;
   height: 100% !important; }
@@ -858,7 +858,7 @@ h3 {
   font-size: 1.0875rem !important; }
 
 p, a, p a, ul, ul li {
-  color: #37352f !important;
+  color: slategrey !important;
   margin-bottom: 1.5rem !important;
   font-size: 1.0875rem !important;
   line-height: 1.675 !important;
