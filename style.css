@@ -1397,11 +1397,3 @@ pre {
 .notion-divider {
   display: none !important; }
 
-span.highlighted-color.color-pink {
-    color: "#00FF00" !important;
-    font-family: "Inter" !important;
-}
-
-.color-pink {
-    color: "#00FF00" !important ;
-}
