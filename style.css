@@ -970,13 +970,12 @@ pre {
     .desktop-nav .right a {
       margin-left: 1.875rem !important;
       font-size: 1.1rem !important;
-      color: #0E0F13 !important;
-      border-bottom: 2px solid rgba(14, 15, 19, 0.125) !important;
+      color: #001B3A !important;
       transition: all 0.2s ease-in-out !important; }
       .desktop-nav .right a:hover {
-        color: #F36163 !important;
+        color: #E90753 !important;
         opacity: 1 !important;
-        border-bottom: 2px solid #f7f6fb !important; }
+         }
 
 .mobile-nav {
   display: none !important; }
