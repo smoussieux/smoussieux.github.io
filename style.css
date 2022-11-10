@@ -970,7 +970,7 @@ pre {
     .desktop-nav .right a {
       margin-left: 1.875rem !important;
       font-size: 1.1rem !important;
-      font-weight: 400 !important;
+      font-weight: 600 !important;
       color: #001B3A !important;
       transition: all 0.2s ease-in-out !important; }
       .desktop-nav .right a:hover {
