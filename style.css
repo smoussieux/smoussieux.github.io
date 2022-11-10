@@ -1396,3 +1396,8 @@ pre {
 .notion-header__content,
 .notion-divider {
   display: none !important; }
+
+span.highlighted-color.color-pink {
+    color: "green" !important;
+    font-family: "Inter" !important;
+}
