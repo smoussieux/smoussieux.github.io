@@ -900,7 +900,7 @@ pre {
     border-bottom: 2px solid #f7f6fb !important; }
 
 .notion-text p.notion-text__content span.notion-semantic-string span strong a.notion-link {
-  background: #191970 !important;
+  background: #E90753 !important;
   padding: 0.6875rem 1.75rem 0.725rem 1.75rem !important;
   border-bottom: none !important;
   color: #F7F6FB !important;
@@ -909,7 +909,7 @@ pre {
   transition: 0.2s all ease-in-out;
   line-height: 1 !important; }
   .notion-text p.notion-text__content span.notion-semantic-string span strong a.notion-link:hover {
-    background: #0E0F13 !important;
+    background: #001B3A !important;
     color: #F7F6FB !important;
     border-bottom: none !important; }
 
