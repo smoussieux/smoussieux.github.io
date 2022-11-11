@@ -742,7 +742,7 @@ html, body {
   width: 100%; }
 
 html, body,
-h1, h2, h3, p,
+h1, h2, p,
 ul, ol, li {
   font-style: normal;
   padding: 0;
@@ -828,7 +828,7 @@ body {
     overflow: hidden !important; }
 
 html, body,
-h1, h2, h3, p,
+h1, h2, p,
 ul, ol, li {
   color: #0E0F13 !important; }
 
